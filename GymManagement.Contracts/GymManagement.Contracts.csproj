@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\GymManagement.Application\GymManagement.Application.csproj" />
-  </ItemGroup>
-
 </Project>
